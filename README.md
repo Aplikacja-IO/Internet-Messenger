@@ -23,8 +23,9 @@ Platforma posiadała będzie z góry narzucone grupy których członkami będą 
 ## Wymagania
 1. Aplikacja będąca przedmiotem specyfikacji działać będzie na systemach komputerowych Windows w trybie aplikacji internetowej i desktopowej.
 2. Aplikacja do działania powinna mieć zapewniony dostęp do internetu. 
-3. Aplikacja zostanie wykonana w technologii C# .NET Framework oraz z zastosowaniem relacyjnej bazy danych SQL.
+3. Aplikacja zostanie wykonana w technologii C# .NET Core oraz z zastosowaniem relacyjnej bazy danych SQL.
 4. Komunikacja klienta z bazą danych będzie realizowana przy użyciu JSON oraz REST API.
+5. Za komunikacje w czasie rzeczywistym odpowiedzialna będzie biblioteka SignalR.
 
 ## Aktorzy i uprawnienia
  **Użytkownicy**
