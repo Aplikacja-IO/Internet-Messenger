@@ -136,3 +136,8 @@ Do tworzenia użytkowników wykorzystany zostanie wzorzec projektowy metoda wytw
 Do komunikacji klienta z serwerem wykorzystany zostanie wzorzec projektowy Singleton.
 
 ![enter image description here](https://i.ibb.co/LYhCDzR/diagram.jpg)
+
+## Baza danych
+
+### Diagram Związków Encji
+!(https://ibb.co/LCHzHGg)
