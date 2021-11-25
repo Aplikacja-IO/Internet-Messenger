@@ -139,5 +139,5 @@ Do komunikacji klienta z serwerem wykorzystany zostanie wzorzec projektowy Singl
 
 ## Baza danych
 
-### Diagram Związków Encji
-![enter image description here](https://i.ibb.co/64LRLdt/database.jpg)
+### Model Relacyjny
+![enter image description here](https://i.ibb.co/frGpmY3/model-relacyjny.jpg)
