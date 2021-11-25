@@ -140,4 +140,4 @@ Do komunikacji klienta z serwerem wykorzystany zostanie wzorzec projektowy Singl
 ## Baza danych
 
 ### Model Relacyjny
-![enter image description here](https://i.ibb.co/GFcNXpG/model-relacyjny-2.png)
+![enter image description here](https://i.ibb.co/SR2TdyM/model-relacyjny-3.png)
