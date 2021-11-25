@@ -140,4 +140,4 @@ Do komunikacji klienta z serwerem wykorzystany zostanie wzorzec projektowy Singl
 ## Baza danych
 
 ### Diagram Związków Encji
-!(https://ibb.co/LCHzHGg)
+!(https://i.ibb.co/64LRLdt/database.jpg)
