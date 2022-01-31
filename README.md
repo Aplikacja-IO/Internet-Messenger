@@ -1,3 +1,4 @@
+
 # Internet-Messenger
 
 
@@ -73,13 +74,15 @@ Platforma posiadała będzie z góry narzucone grupy których członkami będą 
 | Opis | Aplikacja oferuje tworzenie konta poprzez dostarczone przez użytkownika dane po poprawnej ich weryfikacji przez system|
 | Aktorzy | Użytkownik niezarejestrowany |
 | Uprawnienia | - |
+- Zrealizowane po stronie serwera - Mikołaj S
 - 
 |Nazwa| Logowanie |
 |--|--|
 | Opis | Za pomocą dostarczonych danych uwierzytelniających użytkownik po potwierdzeniu swojej tożsamości ma możliwość korzystania z funkcji serwisu|
 | Aktorzy | Użytkownik niezarejestrowany |
 | Uprawnienia | - |
--
+- Zrealizowane po stronie serwera i klienta - Mikołaj S
+- 
 |Nazwa| Wylogowanie |
 |--|--|
 | Opis | Aplikacja oferuje użytkownikom przejście ze stanu zarejestrowany na niezarejestrowany|
@@ -91,7 +94,8 @@ Platforma posiadała będzie z góry narzucone grupy których członkami będą 
 | Opis | Użytkownik zarejestrowany będzie miał możliwość tworzenia nowych treści|
 | Aktorzy | Użytkownik zarejestrowany |
 | Uprawnienia | Tworzenie treści |
--
+- Zrealizowane po stronie serwera - Mikołaj S
+- 
 |Nazwa| Modyfikowanie treści |
 |--|--|
 | Opis | Użytkownicy będą mogli modyfikować istniejące treści|
